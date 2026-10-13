@@ -1,2 +1,2 @@
-patientName = "Lisa"
-patientAge = 24
+PATIENT_NAME = "Lisa"
+PATIENT_AGE = 24
