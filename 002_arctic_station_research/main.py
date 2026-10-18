@@ -1,1 +1,5 @@
 STATION_NAME = "Aurora-7"
+
+TEMPERATURE = -18.5
+
+WIND_SPEED = 24.0
