@@ -1,0 +1,1 @@
+STATION_NAME = "Aurora-7"
