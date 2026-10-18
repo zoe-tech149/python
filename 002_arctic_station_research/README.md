@@ -15,9 +15,16 @@ Build a program that displays the information in a clean, readable format.
 
 ## Concepts Practised
 
-1. Data Types
-2. Variables
+1. Data Types (str, int, float, bool)
+2. Variables (assignment)
+3. print()
+4. F-strings
 
 ## Future Improvements
-- Potential improvement
+- Accept station readings through user input
+- Add environmental warnings for unsafe conditions
+- Validate readings to prevent invalid values
+- Record readings with time stamps for historical analysis
+- Support monitoring multiple research stations
+- Integrate real sensor data or an external weather API
 
