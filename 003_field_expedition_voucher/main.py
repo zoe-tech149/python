@@ -12,15 +12,15 @@ print("Expense Voucher")
 
 print()
 
-print(f"Original budget:   R{original_budget}")
+print(f"Original budget:   R{original_budget:.2f}")
 
 print()
 
 print("Expenses:")
-print(f"Transport: R{transport_expense}")
-print(f"Food and supplies: R{food_supplies_expense}" )
-print(f"Research materials: R{research_materials_expense}")
+print(f"Transport: R{transport_expense:.2f}")
+print(f"Food and supplies: R{food_supplies_expense:.2f}")
+print(f"Research materials: R{research_materials_expense:.2f}")
 
-print(f"Total expenses: R{total_expenses}")
+print(f"Total expenses: R{total_expenses:.2f}")
 
-print(f"Remaining budget: R{remaining_budget}")
+print(f"Remaining budget: R{remaining_budget:.2f}")
