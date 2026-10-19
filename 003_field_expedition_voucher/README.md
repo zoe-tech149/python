@@ -23,10 +23,22 @@ Expedition records:
 - Format the monetary amounts to two decimal places
 
 ## Concepts Practised
-- Concept: How it was applied
-
-
+- Variables, assignment, and data types
+- print() and f-strings
+- Reassignment and execution order
+- Arithmetic operators and expressions
+- Storing and reusing calculated results
+- Numeric formatting with .2f
 
 ## Future Improvements
-- Potential improvement
+- [] Accept budget and expense amounts through user input.
+- [] Validate monetary values and handle invalid entries.
+- [] Warn when expenses exceed the available budget.
+- [] Calculate budget utilisation and spending by category.
+- [] Support multiple expense entries.
+- [] Save and export expense reports to CSV or JSON.
+- [] Add dates, receipt references, and approval statuses.
+- [] Strengthen monetary precision and define appropriate rounding rules.
+
+
 
