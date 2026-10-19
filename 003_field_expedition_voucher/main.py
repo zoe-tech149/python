@@ -8,3 +8,19 @@ total_expenses = transport_expense + food_supplies_expense + research_materials_
 
 remaining_budget = original_budget - total_expenses
 
+print("Expense Voucher")
+
+print()
+
+print(f"Original budget:   R{original_budget}")
+
+print()
+
+print("Expenses:")
+print(f"Transport: R{transport_expense}")
+print(f"Food and supplies: R{food_supplies_expense}" )
+print(f"Research materials: R{research_materials_expense}")
+
+print(f"Total expenses: R{total_expenses}")
+
+print(f"Remaining budget: R{remaining_budget}")
