@@ -6,3 +6,5 @@ research_materials_expense = 310.00
 
 total_expenses = transport_expense + food_supplies_expense + research_materials_expense
 
+remaining_budget = original_budget - total_expenses
+
